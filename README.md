@@ -81,7 +81,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthivasan100" alt="keerthivasan100" />
-</p>
+<div align="center">
+  <img src="https://github.com/keerthivasan100/keerthivasan100/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
 
